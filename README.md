@@ -1,7 +1,7 @@
 My name is Yohanes Adi Prasetya, I am currently studying at the University of Bengkulu in the Informatics Study Program. 
 
 # 💫 About Me:
-🌱 I’m currently learning Game Development, Web application. <br><br>📫 How to reach me desi.gc123@gmail.com<br><br>⚡ Fun fact I like Japanese
+🌱 I’m currently learning Game Development, Web application. <br><br>⚡ Fun fact I like Japanese
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
